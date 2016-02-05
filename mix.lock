@@ -1,0 +1,3 @@
+%{"phoenix_pubsub": {:git, "https://github.com/phoenixframework/phoenix_pubsub.git", "86685beb0f1f374b82206a5d5ab70e8aadd2e937", []},
+  "poison": {:hex, :poison, "2.0.1"},
+  "websocket_client": {:git, "https://github.com/jeremyong/websocket_client.git", "f6892c8b55004008ce2d52be7d98b156f3e34569", []}}
